@@ -1,3 +1,3 @@
 
 # Consultorio_Medico
-Proyecto de Monsultorio Médico y Farmacia
+Proyecto de Consultorio Médico y Farmacia e implemntación de mensajería entre Médico y Paciente
